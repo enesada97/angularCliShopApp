@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "name": "Telefon",
+      "description": "İphone 8",
+      "price": "5000",
+      "categoryId": "2",
+      "imageUrl": "https://ae01.alicdn.com/kf/HTB182GJegAq0eJjSZFtq6A.qVXaj/Apple-iPhone-8-4G-LTE-4-7-12.jpg",
+      "id": 3
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Güzel bir buzdolabı",
+      "imageUrl": "https://st1.myideasoft.com/idea/fr/19/myassets/products/002/391626esc.png?revision=1579762570",
+      "price": "3000",
+      "categoryId": "2",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
