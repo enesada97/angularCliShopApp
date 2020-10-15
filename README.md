@@ -1,0 +1,2 @@
+# angularCliShopApp
+educational practice
